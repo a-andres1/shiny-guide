@@ -10,5 +10,10 @@ button {
 
 p {
     color: rgb(205, 92, 92);
-    background-color: #ffdab9;
+    background-color: rgb(255, 218, 185);
+}
+
+h3 {
+    color: #0F5679;
+    background-color: #FF7865
 }
