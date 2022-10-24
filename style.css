@@ -2,6 +2,7 @@ h2 {
     color: darkseagreen;
     background-color: indianred;
     text-align: center;
+    font-family: fantasy;
 }
 
 button {
@@ -14,6 +15,7 @@ p {
     background-color: rgb(255, 218, 185);
     text-align: right;
     font-weight: 700;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
 }
 
