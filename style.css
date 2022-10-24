@@ -1,6 +1,7 @@
 h2 {
     color: darkseagreen;
     background-color: indianred;
+    text-align: center;
 }
 
 button {
@@ -11,11 +12,16 @@ button {
 p {
     color: rgb(205, 92, 92);
     background-color: rgb(255, 218, 185);
+    text-align: right;
+    font-weight: 700;
+
 }
 
 h3 {
     color: #0F5679;
     background-color: #FF7865;
+    /* text decoration can be used to remove default underlines like for links */
+    text-decoration: peachpuff wavy line-through;
 }
 
 body {
