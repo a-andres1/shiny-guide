@@ -1,3 +1,14 @@
 h2 {
-    color: #733;
+    color: teal;
+    background-color: violet;
+}
+
+button {
+    color: burlywood;
+    background-color: plum;
+}
+
+p {
+    color: darkolivegreen;
+    background-color: brown;
 }
